@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'salemoreaffiliate');
+define('DB_NAME', 'sale_more');
 
 /** MySQL database username */
 define('DB_USER', 'sa');
@@ -29,7 +29,7 @@ define('DB_USER', 'sa');
 define('DB_PASSWORD', '$bigboss27051');
 
 /** MySQL hostname */
-define('DB_HOST', 'salemoreaffiliate.cpwpgnfhtmjj.ap-southeast-1.rds.amazonaws.com:3306');
+define('DB_HOST', 'wordpresssalemore.cpwpgnfhtmjj.ap-southeast-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
